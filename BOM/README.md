@@ -42,3 +42,24 @@ This folder contains the complete list of materials and components required for 
 
 If you prefer to maintain a spreadsheet, include a `bom.csv` file in this folder using the following structure:
 
+### Example entries
+| Line | Category | Description | Qty | Notes |
+|------|-----------|-------------|-----|-------|
+| 1 | Printed | Hand shell (PETG) | 1 | Phoenix UnLimbited design |
+| 2 | Hardware | M3×10 screw | 12 | Stainless steel |
+| 3 | Elastic | Nylon cord 2 mm | 1 m | Finger tensioning |
+| 4 | Inserts | M3 heat-set insert | 12 | Installed with soldering iron |
+| 5 | Misc | Foam padding | 1 | 2–5 mm thick |
+| 6 | Fastener | Velcro strap | 1 m | 25 mm width |
+| 7 | Grip | Plasti-Dip | — | Finger coating |
+| 8 | Dental | Orthodontic elastics | several | Sizes 3/8" and 1/4" |
+
+Update with suppliers and costs as you build.
+
+---
+
+## 4. Notes
+- All items listed here are required for **assembly and testing**; none are 3D-printed.
+- Quantities may vary slightly depending on scale or modifications.
+- For Manon Smesman’s final prosthesis, the same materials were used, scaled proportionally to her arm size.
+
